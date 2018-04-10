@@ -30,7 +30,7 @@
 
 - Lập trình viên có thể hiểu và đánh giá các chức năng được yêu cầu.
 
-- Lập trinh viên và khách hàng có cùng một mục tiêu.
+- Lập trình viên và khách hàng có cùng một mục tiêu.
 
 ---
 
