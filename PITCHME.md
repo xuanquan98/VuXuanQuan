@@ -49,9 +49,9 @@
 
 -Có thể hiểu theo nhiều cách khác nhau nhưng có thể hiểu theo 2 cách:
 
-    +Thời Gian
+   +Thời Gian
 
-    +Lưu trữ hoặc không gian
+   +Lưu trữ hoặc không gian
 
 ---
 
@@ -59,9 +59,9 @@
 ### Thời gian
 -Thời gian phản ứng( Thông lượng):
 
-    + Giờ cao điểm: vd hệ thống có thể xử lí 50 người trên 1s.
+   + Giờ cao điểm: vd hệ thống có thể xử lí 50 người trên 1s.
 
-    + Bình thường: 10 giao dịch / giây
+   + Bình thường: 10 giao dịch / giây
     
 -Thời gian trả lời:
 
