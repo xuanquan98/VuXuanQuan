@@ -47,24 +47,31 @@
 ## Nội Dung 
 ### Hiệu suất
 
--Có thể hiểu theo nhiều cách khác nhau nhưng có thể hiểu theo 2 cách :
-   +Thời Gian
-   +Lưu trữ hoặc không gian
+-Có thể hiểu theo nhiều cách khác nhau nhưng có thể hiểu theo 2 cách:
+
+    +Thời Gian
+
+    +Lưu trữ hoặc không gian
 
 ---
 
 ## Hiệu suất
 ### Thời gian
 -Thời gian phản ứng( Thông lượng):
-   + Giờ cao điểm: vd hệ thống có thể xử lí 50 người trên 1s.
-   + Bình thường: 10 giao dịch / giây
+
+    + Giờ cao điểm: vd hệ thống có thể xử lí 50 người trên 1s.
+
+    + Bình thường: 10 giao dịch / giây
+    
 -Thời gian trả lời:
-   vd: Hệ thống trả lời người dùng trong 150 mili giây.
+
+   Vd: Hệ thống trả lời người dùng trong 150 mili giây.
 
 ---
 
 ## Hiệu suất
 ### Lưu trữ
+
 -Bộ nhớ
 
 -Ổ đĩa
