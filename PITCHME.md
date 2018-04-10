@@ -136,23 +136,23 @@ Quá trình đặc tả phần mềm là lặp đi lặp lại các bước:
 ---
 
 # **ROLE - GOAL - BENEFIT** 
-	- Hiểu được mục tiêu, lợi ích những gì họ đang làm.
-	- Thêm, bớt tính năng có làm tăng giá trị sản phẩm?
+- Hiểu được mục tiêu, lợi ích những gì họ đang làm.
+- Thêm, bớt tính năng có làm tăng giá trị sản phẩm?
 ---
 
 # **LIMITATIONS**
-	- Những hạn chế của tính năng.
+- Những hạn chế của tính năng.
 ---
 
 # **DEFINITION OF DONE**
-	- Xác nhận tính hoàn thiện của tính năng.	
+- Xác nhận tính hoàn thiện của tính năng.	
 ---
 
 # **ENGINEERING TASKS**
-	- Có giá trị cho đội ngũ phát triển.
-	- Theo dõi các tính năng tương tác với nhau trong hệ thống.
+- Có giá trị cho đội ngũ phát triển.
+- Theo dõi các tính năng tương tác với nhau trong hệ thống.
 ---
 
 # **EFFORT ESTIMATE**
-	- ước tính chi phí tổng thể của một sản phẩm.
-	- Có nên thêm tính năng cho sản phẩm? chi phí so với hiệu quả của tính năng?
+- ước tính chi phí tổng thể của một sản phẩm.
+- Có nên thêm tính năng cho sản phẩm? chi phí so với hiệu quả của tính năng?
