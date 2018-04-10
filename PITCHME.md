@@ -30,7 +30,7 @@
 
 -Lập trình viên có thể hiểu và đánh giá các chức năng được yêu cầu.
 
--Lập trinh viên và khách hàng có cùng một mục tiêu
+-Lập trinh viên và khách hàng có cùng một mục tiêu.
 
 ---
 
@@ -44,8 +44,8 @@
 
 ---
 
-##Nội Dung 
-###Hiệu suất
+## Nội Dung 
+### Hiệu suất
 
 -Có thể hiểu theo nhiều cách khác nhau nhưng có thể hiểu theo 2 cách :
    +Thời Gian
@@ -53,17 +53,18 @@
 
 ---
 
-##Hiệu suất
-###Thời gian
+## Hiệu suất
+### Thời gian
 -Thời gian phản ứng( Thông lượng):
    + Giờ cao điểm: vd hệ thống có thể xử lí 50 người trên 1s.
    + Bình thường: 10 giao dịch / giây
 -Thời gian trả lời:
    vd: Hệ thống trả lời người dùng trong 150 mili giây.
+
 ---
 
-##Hiệu suất
-###Lưu trữ
+## Hiệu suất
+### Lưu trữ
 -Bộ nhớ
 
 -Ổ đĩa
