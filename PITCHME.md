@@ -50,11 +50,7 @@ Quá trình đặc tả phần mềm là lặp đi lặp lại các bước:
 
 ---
 
-# Đặc điểm kỹ thuật
-
----
-
-## Xác nhận yêu cầu
+## Xác nhận yêu cầu (Validating Requirements)
 
 - Yêu Cầu
 
